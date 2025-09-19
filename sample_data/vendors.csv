@@ -1,0 +1,6 @@
+vendor_code,vendor_name,vendor_type,contact_email,is_active
+V001,Office Depot,Supplier,orders@officedepot.com,Y
+V002,Delta Airlines,Travel,business@delta.com,Y
+V003,Google Ads,Marketing,support@google.com,Y
+V004,Amazon Web Services,Technology,support@aws.com,Y
+V005,Local Restaurant,Meals,info@restaurant.com,Y

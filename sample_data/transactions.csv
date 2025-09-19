@@ -1,0 +1,101 @@
+transaction_id,transaction_date,account_code,vendor_code,description,amount,currency,transaction_type,category,reference_number
+TXN000001,2025-07-05,4002,V001,Client meeting,4329.59,USD,Debit,Software,REF2566
+TXN000002,2025-07-25,5003,,Office supplies purchase,2672.45,USD,Debit,Travel,REF6192
+TXN000003,2025-07-20,2001,V004,Marketing campaign,4765.83,USD,Credit,Marketing,REF6918
+TXN000004,2025-06-25,3001,V003,Office supplies purchase,2137.32,USD,Credit,Marketing,REF8016
+TXN000005,2025-08-03,1001,V002,Office supplies purchase,1092.56,USD,Debit,Software,REF7503
+TXN000006,2025-06-28,5003,V001,Software license,456.64,USD,Credit,Travel,REF9245
+TXN000007,2025-08-17,3001,V001,Business travel,3821.57,USD,Debit,Software,REF9956
+TXN000008,2025-07-05,5003,V002,Office supplies purchase,1125.68,USD,Credit,Meals,REF2208
+TXN000009,2025-07-08,4001,V001,Office supplies purchase,2375.59,USD,Credit,Travel,REF6875
+TXN000010,2025-07-27,2002,,Client meeting,1165.45,USD,Debit,Software,REF5048
+TXN000011,2025-06-26,5002,,Client meeting,4617.9,USD,Debit,Software,REF9279
+TXN000012,2025-06-27,5002,,Marketing campaign,1926.55,USD,Credit,Office Supplies,REF7483
+TXN000013,2025-09-17,4001,,Software license,2794.65,USD,Debit,Travel,REF7146
+TXN000014,2025-07-18,5003,V002,Office supplies purchase,3288.98,USD,Debit,Meals,REF5188
+TXN000015,2025-08-19,5002,,Client meeting,3931.29,USD,Debit,Travel,REF1966
+TXN000016,2025-07-19,1002,,Marketing campaign,1727.57,USD,Debit,Meals,REF5691
+TXN000017,2025-07-10,1001,V003,Business travel,4116.41,USD,Debit,Software,REF2945
+TXN000018,2025-08-30,2002,V004,Software license,3253.7,USD,Credit,Software,REF5655
+TXN000019,2025-07-24,1001,V001,Client meeting,821.92,USD,Debit,Office Supplies,REF9951
+TXN000020,2025-07-16,1001,V002,Office supplies purchase,1677.39,USD,Debit,Marketing,REF6655
+TXN000021,2025-07-19,2001,,Marketing campaign,2592.1,USD,Credit,Meals,REF6937
+TXN000022,2025-09-09,2001,V003,Business travel,493.95,USD,Debit,Software,REF8918
+TXN000023,2025-07-17,5003,V003,Software license,2756.32,USD,Credit,Meals,REF6394
+TXN000024,2025-09-06,1001,V005,Marketing campaign,718.62,USD,Debit,Meals,REF8137
+TXN000025,2025-07-13,4001,,Client meeting,3032.51,USD,Debit,Meals,REF6272
+TXN000026,2025-08-06,3001,V001,Marketing campaign,3027.61,USD,Credit,Meals,REF6230
+TXN000027,2025-06-28,4002,,Office supplies purchase,1091.94,USD,Debit,Office Supplies,REF7756
+TXN000028,2025-07-12,2002,V003,Business travel,3567.1,USD,Debit,Marketing,REF2294
+TXN000029,2025-09-14,5002,V001,Software license,4913.78,USD,Credit,Software,REF8453
+TXN000030,2025-07-29,4001,V001,Marketing campaign,3767.18,USD,Credit,Marketing,REF2477
+TXN000031,2025-07-10,2001,V002,Marketing campaign,4054.19,USD,Credit,Marketing,REF7485
+TXN000032,2025-06-25,5002,,Business travel,585.04,USD,Credit,Software,REF5855
+TXN000033,2025-08-21,5002,V005,Business travel,202.27,USD,Credit,Meals,REF2277
+TXN000034,2025-09-02,3001,,Business travel,1347.36,USD,Debit,Marketing,REF8937
+TXN000035,2025-08-05,2002,V005,Client meeting,1649.29,USD,Credit,Travel,REF4660
+TXN000036,2025-08-27,2002,,Marketing campaign,3704.92,USD,Credit,Meals,REF9452
+TXN000037,2025-09-19,5002,V005,Client meeting,3319.78,USD,Credit,Meals,REF7623
+TXN000038,2025-06-23,3001,V004,Client meeting,988.83,USD,Debit,Travel,REF9479
+TXN000039,2025-08-22,5001,V004,Software license,1395.43,USD,Debit,Software,REF2671
+TXN000040,2025-08-17,3001,,Marketing campaign,4567.41,USD,Debit,Meals,REF5531
+TXN000041,2025-09-09,2001,V003,Marketing campaign,939.04,USD,Debit,Marketing,REF6097
+TXN000042,2025-07-03,4001,V004,Client meeting,4203.72,USD,Debit,Meals,REF1578
+TXN000043,2025-08-25,4002,V004,Marketing campaign,3375.94,USD,Debit,Office Supplies,REF1457
+TXN000044,2025-09-18,5002,,Client meeting,4864.44,USD,Debit,Office Supplies,REF5943
+TXN000045,2025-09-17,4001,,Office supplies purchase,1796.52,USD,Debit,Meals,REF2600
+TXN000046,2025-07-03,2001,V005,Client meeting,3052.94,USD,Credit,Meals,REF3638
+TXN000047,2025-09-07,1001,V003,Office supplies purchase,1857.9,USD,Credit,Office Supplies,REF6585
+TXN000048,2025-07-25,5002,,Marketing campaign,75.02,USD,Debit,Office Supplies,REF6857
+TXN000049,2025-07-04,5002,V005,Business travel,4196.45,USD,Credit,Meals,REF3009
+TXN000050,2025-08-20,5003,,Office supplies purchase,3413.41,USD,Credit,Meals,REF1003
+TXN000051,2025-07-28,3001,V001,Client meeting,2079.52,USD,Debit,Meals,REF4924
+TXN000052,2025-08-03,3001,V005,Marketing campaign,4307.98,USD,Credit,Software,REF2000
+TXN000053,2025-07-26,4001,V005,Office supplies purchase,2047.34,USD,Credit,Marketing,REF7411
+TXN000054,2025-08-22,1001,V003,Business travel,236.09,USD,Credit,Travel,REF5899
+TXN000055,2025-08-01,4001,V004,Office supplies purchase,154.08,USD,Debit,Office Supplies,REF2617
+TXN000056,2025-08-05,5003,V001,Marketing campaign,4120.36,USD,Credit,Office Supplies,REF3019
+TXN000057,2025-06-21,1002,V002,Client meeting,849.75,USD,Credit,Marketing,REF6449
+TXN000058,2025-08-05,1002,,Client meeting,1115.32,USD,Debit,Travel,REF4258
+TXN000059,2025-07-24,5003,,Office supplies purchase,2915.9,USD,Debit,Meals,REF8483
+TXN000060,2025-06-23,1001,,Business travel,1009.99,USD,Debit,Travel,REF4003
+TXN000061,2025-09-04,4002,V005,Marketing campaign,1421.85,USD,Debit,Office Supplies,REF8183
+TXN000062,2025-06-27,2001,V001,Client meeting,4674.84,USD,Credit,Office Supplies,REF3698
+TXN000063,2025-07-12,5003,V005,Marketing campaign,4729.41,USD,Debit,Travel,REF1469
+TXN000064,2025-08-24,5002,V004,Business travel,2997.26,USD,Credit,Marketing,REF1715
+TXN000065,2025-06-23,4001,V005,Software license,2691.92,USD,Credit,Office Supplies,REF1693
+TXN000066,2025-08-04,2001,V004,Business travel,2432.74,USD,Debit,Marketing,REF5392
+TXN000067,2025-09-16,2001,V001,Marketing campaign,11.53,USD,Credit,Travel,REF7377
+TXN000068,2025-09-18,1002,V002,Office supplies purchase,3233.95,USD,Debit,Office Supplies,REF4859
+TXN000069,2025-08-21,5001,V004,Business travel,4272.68,USD,Debit,Marketing,REF9445
+TXN000070,2025-08-18,1001,,Software license,3081.39,USD,Credit,Office Supplies,REF8685
+TXN000071,2025-08-26,4002,V002,Office supplies purchase,3822.37,USD,Credit,Meals,REF7910
+TXN000072,2025-09-10,2001,,Marketing campaign,1229.5,USD,Debit,Software,REF2740
+TXN000073,2025-08-17,2002,,Office supplies purchase,2217.72,USD,Debit,Office Supplies,REF4600
+TXN000074,2025-08-04,3001,V002,Software license,3742.84,USD,Credit,Office Supplies,REF1538
+TXN000075,2025-09-16,4002,V004,Business travel,3077.24,USD,Credit,Travel,REF7305
+TXN000076,2025-09-09,3001,,Business travel,530.54,USD,Debit,Marketing,REF7926
+TXN000077,2025-07-22,4002,V003,Business travel,2385.08,USD,Debit,Office Supplies,REF9820
+TXN000078,2025-06-30,4001,V004,Office supplies purchase,611.61,USD,Credit,Marketing,REF7699
+TXN000079,2025-08-19,2002,V004,Marketing campaign,2098.18,USD,Credit,Meals,REF1478
+TXN000080,2025-08-25,2002,V005,Business travel,4771.58,USD,Debit,Marketing,REF5049
+TXN000081,2025-09-17,5003,V005,Office supplies purchase,2253.76,USD,Credit,Travel,REF1270
+TXN000082,2025-08-14,4002,V004,Office supplies purchase,2742.99,USD,Credit,Software,REF4105
+TXN000083,2025-08-29,1002,,Office supplies purchase,1291.91,USD,Credit,Travel,REF4152
+TXN000084,2025-06-23,5001,,Client meeting,3861.35,USD,Debit,Software,REF5267
+TXN000085,2025-07-20,2001,V003,Client meeting,1851.92,USD,Credit,Travel,REF6763
+TXN000086,2025-08-25,4002,V004,Software license,617.67,USD,Debit,Office Supplies,REF3883
+TXN000087,2025-07-19,2001,,Business travel,2861.35,USD,Credit,Software,REF3282
+TXN000088,2025-06-27,5001,V004,Client meeting,433.8,USD,Credit,Travel,REF6764
+TXN000089,2025-08-15,1002,V004,Business travel,52.33,USD,Credit,Marketing,REF1421
+TXN000090,2025-07-10,1001,,Marketing campaign,3298.05,USD,Credit,Travel,REF1351
+TXN000091,2025-08-25,4002,V004,Software license,2498.1,USD,Debit,Travel,REF9193
+TXN000092,2025-07-31,1002,,Business travel,3893.37,USD,Debit,Marketing,REF4941
+TXN000093,2025-07-31,3001,V002,Marketing campaign,1687.82,USD,Debit,Meals,REF3340
+TXN000094,2025-06-28,1001,,Office supplies purchase,2395.38,USD,Debit,Software,REF3617
+TXN000095,2025-08-18,5002,V005,Client meeting,2271.3,USD,Debit,Meals,REF8747
+TXN000096,2025-08-29,5003,V002,Business travel,1984.87,USD,Debit,Marketing,REF2451
+TXN000097,2025-07-09,5003,,Client meeting,474.49,USD,Debit,Office Supplies,REF6523
+TXN000098,2025-07-25,5003,V004,Software license,3385.39,USD,Debit,Marketing,REF8235
+TXN000099,2025-07-05,5003,,Software license,639.33,USD,Debit,Marketing,REF4425
+TXN000100,2025-07-09,2002,V001,Business travel,3637.37,USD,Credit,Meals,REF7082

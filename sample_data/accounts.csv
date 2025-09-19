@@ -1,0 +1,11 @@
+account_code,account_name,account_type,is_active
+1001,Cash,Asset,Y
+1002,Accounts Receivable,Asset,Y
+2001,Accounts Payable,Liability,Y
+2002,Accrued Expenses,Liability,Y
+3001,Retained Earnings,Equity,Y
+4001,Sales Revenue,Revenue,Y
+4002,Service Revenue,Revenue,Y
+5001,Office Supplies,Expense,Y
+5002,Travel Expenses,Expense,Y
+5003,Marketing Expenses,Expense,Y
